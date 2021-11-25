@@ -108,4 +108,4 @@ public class Father {
 <br>![avatar](https://github.com/songmingyang01/java-3-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-11-22%20110813.png)
 <br>![avatar](https://github.com/songmingyang01/java-3-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-11-22%20110823.png)
 # 七、感想与体会
-&emsp;&emsp;
+&emsp;&emsp;本次实验基于实验二进行改进，增加了有关继承关系的内容，同时对程序进行了进一步的处理和优化，使自己对程序的理解加深，对继承关系的运用能力有所提高。
